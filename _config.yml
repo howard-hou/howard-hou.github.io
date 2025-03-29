@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : "haowen-hou"
   dblp             : "https://dblp.org/pid/248/9287.html"
-  orcid            : "https://orcid.org/0000-0003-3850-3722"
+  orcid            : # "https://orcid.org/0000-0003-3850-3722"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "@corgirun7892"
+  youtube          : "https://www.youtube.com/@corgirun7892"
   wikipedia        :
 
 
