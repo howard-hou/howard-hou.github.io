@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haowen Hou (侯皓文)"
-description              : "Research scientist in Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)."
+description              : "Research scientist"
 repository               : "howard-hou/howard-hou.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Haowen Hou (侯皓文)"
+  name             : "Haowen Hou"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)"
   location         : "Shenzhen, China"
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/@corgirun7892"
+  youtube          : "@corgirun7892"
   wikipedia        :
 
 
