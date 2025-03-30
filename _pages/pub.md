@@ -37,13 +37,13 @@ Jiaxi Yang, ***Haowen Hou***
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='images/RWKV-UI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SPL</div><img src='images/MLLM-TA_with_margin.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[RWKV-UI: UI Understanding with Enhanced Perception and Reasoning](https://arxiv.org/abs/2502.03971) \\
-Jiaxi Yang, ***Haowen Hou***
+[MLLM-TA: Leveraging Multimodal Large Language Models for Precise Temporal Video Grounding](https://ieeexplore.ieee.org/abstract/document/10777595/) \\
+Yi Liu, ***Haowen Hou***(co-first author), Fei Ma, Shiguang Ni, Fei Richard Yu
 
-[**Paper**](https://arxiv.org/pdf/2502.03971)
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10777595/)
 </div>
 </div>
 
