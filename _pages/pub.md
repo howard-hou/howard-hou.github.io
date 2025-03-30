@@ -5,9 +5,9 @@
 
 [VisualRWKV: Exploring Recurrent Neural Networks for Visual Language Models](https://aclanthology.org/2025.coling-main.694.pdf)
 
-++Haowen Hou++ and Peigen Zeng and Fei Ma and Fei Richard Yu
+***Haowen Hou*** and Peigen Zeng and Fei Ma and Fei Richard Yu
 
-[**Code**](https://github.com/howard-hou/VisualRWKV) | [**Paper**]([https://github.com/howard-hou/VisualRWKV](https://aclanthology.org/2025.coling-main.694.pdf) | [**Video**](https://www.bilibili.com/video/BV1e2CGYGEm6/)
+[**Code**](https://github.com/howard-hou/VisualRWKV) | [**Paper**](https://aclanthology.org/2025.coling-main.694.pdf) | [**Video**](https://www.bilibili.com/video/BV1e2CGYGEm6/)
 
 </div>
 </div>
