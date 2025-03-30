@@ -2,7 +2,7 @@
 
 I am currently an Associate Researcher at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ), affiliated with **Shenzhen University**.
 
-My current research interests focus on:
+My current research interests🔬 focus on:
 - **RWKV**: a novel neural network architecture for language modeling  
 - **Vision-Language Models** combining visual and textual understanding 
 If you're interested in academic collaboration, feel free to **[email me](mailto:houhaowen@gml.ac.cn)** — I'd love to connect! We're also **recruiting interns** — reach out if you're passionate about AI! ✉️🚀
