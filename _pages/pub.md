@@ -11,6 +11,32 @@
 </div>
 </div>
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2025</div><img src='images/RWKV-7.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RWKV-7 "Goose" with Expressive Dynamic State Evolution](https://arxiv.org/abs/2503.14456) \\
+Bo Peng, Ruichong Zhang, Daniel Goldstein, Eric Alcaide, ***Haowen Hou***，et al.
+
+[**Paper**](https://arxiv.org/pdf/2503.14456) \| [**HuggingFace**](https://huggingface.co/RWKV) \| [**Code**](https://github.com/RWKV/RWKV-LM)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='images/RWKV-UI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RWKV-UI: UI Understanding with Enhanced Perception and Reasoning](https://arxiv.org/abs/2502.03971) \\
+Jiaxi Yang, ***Haowen Hou***
+
+[**Paper**](https://arxiv.org/pdf/2502.03971)
+</div>
+</div>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='images/RWKV-UI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
