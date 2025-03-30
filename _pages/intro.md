@@ -1,6 +1,6 @@
 # About Me 👨‍🔬
 
-I am currently an Associate Researcher at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ), affiliated with **Shenzhen University**.
+I am currently an Assistant Professor at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ), affiliated with **Shenzhen University**.
 
 My current research interests🔬 focus on:
 - **RWKV**: a novel neural network architecture for language modeling  
