@@ -51,6 +51,26 @@ Yi Liu, ***Haowen Hou***(co-first author), Fei Ma, Shiguang Ni, Fei Richard Yu
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2024</div><img src='images/RWKV-56.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence](https://arxiv.org/abs/2404.05892) \\
+Bo Peng, Eric Alcaide, Quentin Anthony, ..., Haowen Hou, et al.
+
+[**Paper**](https://openreview.net/pdf?id=rRO4xELteQ) \| [**HuggingFace**](https://huggingface.co/RWKV) \| [**Code**](https://github.com/BlinkDL/RWKV-LM/tree/main)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/RWKV-4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RWKV: Reinventing RNNs for the Transformer Era](https://aclanthology.org/2023.findings-emnlp.936/) \\
+Bo Peng, Eric Alcaide, Quentin Anthony, ..., Haowen Hou, et al.
+
+[**Paper**](https://aclanthology.org/2023.findings-emnlp.936.pdf) \| [**HuggingFace**](https://huggingface.co/RWKV) \| [**Code**](https://github.com/BlinkDL/RWKV-LM/tree/main)
+</div>
+</div>
+
 # Other Publications 📚 
 - ``arXiv`` [RWKV-TS: Beyond Traditional Recurrent Neural Network for Time Series Tasks](https://arxiv.org/abs/2401.09093) ***Haowen Hou***, Fei Ma, Binwen Bai, Xinxin Zhu, Fei Yu
 - ``arXiv`` [Enhancing and Accelerating Large Language Models via Instruction-Aware Contextual Compression](https://arxiv.org/abs/2408.15491) ***Haowen Hou***, F. Richard Yu
