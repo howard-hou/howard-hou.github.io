@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haowen Hou (侯皓文)"
-description              : "Research scientist"
+description              : "Assistant Professor"
 repository               : "howard-hou/howard-hou.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haowen Hou"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)"
+  bio              : "Guangming Laboratory"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
