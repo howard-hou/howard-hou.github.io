@@ -12,3 +12,5 @@ redirect_from:
 {% include_relative intro.md %}
 
 {% include_relative news.md %}
+
+{% include_relative pub.md %}
