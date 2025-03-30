@@ -1,4 +1,4 @@
-## About Me 👨‍🔬
+# About Me 👨‍🔬
 
 I am currently an Associate Researcher at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ), affiliated with **Shenzhen University**.
 
