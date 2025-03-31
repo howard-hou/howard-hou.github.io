@@ -1,18 +1,19 @@
+#  Jekyll 渲染的标题会自动变成 id="xxx-"（因为有 emoji 等字符），需要在导航链接里加上结尾的-，才能精准跳转过去
 main:
   - title: "About Me"
-    url: "#about-me"
+    url: "#about-me-"
 
   - title: "News"
-    url: "#news"
+    url: "#news-"
 
   - title: "Publications"
-    url: "#publications"
+    url: "#selected-publications-"
 
   - title: "Honors and Awards"
-    url: "#honors-and-awards"
+    url: "#honors-and-awards-"
 
   - title: "Educations"
-    url: "#educations"
+    url: "#educations-"
 
   - title: "Invited Talks"
-    url: "#invited-talks"
+    url: "#invited-talks-"
