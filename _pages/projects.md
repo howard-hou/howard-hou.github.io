@@ -1,4 +1,4 @@
-# Projects
+# Projects 🏭
 *2022* E-Commerce Visual Language Pre-training
 - Developed a large-scale (100M pairs) e-commerce visual-language pre-training model for enhanced product understanding.
 - Proposed **BagFormer**, a dual encoder for cross-modal retrieval using bag-wise interaction and entity-aware text granularity. Achieved top recall with low latency.
@@ -6,13 +6,9 @@
 
 *2021* WeChat Video Product Identification
 - Led design & development of scalable video product ID pipeline: data processing, model training, inference acceleration, and deployment (TensorRT, Kubernetes, Pulsar).
-- Built core modules:  
-  - **Video classification** (ResNet-50 + BERT + NextVlad)  
-  - **Product detection** (YOLO-v5)  
-  - **Retrieval** (Siamese Network)  
-  - **Tagging** (ALBEF + XGBoost)  
+- Led the development of major modules:  multimodal video classification(ResNet-50, BERT, and NextVlad), product detection(YOLO-v5), product retrieval(Siamese Network), and product tagging(ALBEF+XGBoost). 
 - Boosted overall GSB by **12.37%**, Top-3 GSB by **26%**, contributing to WeChat Video reaching **500M DAU**.  
-- **2nd place** in Watch and Buy 2021 Challenge.
+- Won 2nd place in the AAAI 2021 Watch and Buy Challenge.
 
 *2020* WeChat Pay Merchant Understanding
 - Tagged **7.7M merchants** with **370M high-quality tags** using distant supervision and active learning.

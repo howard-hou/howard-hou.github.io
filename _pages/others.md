@@ -10,6 +10,6 @@
 # Teaching 🧑‍🏫
 - *2024 Fall* Advanced Algorithms
 
-# Academic Service
+# Academic Service 🎓
 - *2024.06 - Now*, Journal Reviewer, IEEE Signal Processing Letters
 - *2025.01 - Now*, Conference Reviewer, IEEE International Conference on Multimedia & Expo (ICME)
