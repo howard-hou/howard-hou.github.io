@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Haowen Hou (侯皓文)"
-description              : "Assistant Professor"
+title                    : "Dr. Haowen Hou"
+description              : "Research Fellow"
 repository               : "howard-hou/howard-hou.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=P6pDyoYAAAAJ"
-  email            : "houhaowen@gml.ac.cn"
+  email            : "howardhwhou@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
