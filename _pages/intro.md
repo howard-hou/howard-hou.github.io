@@ -9,3 +9,7 @@ My work has been published at leading AI venues, including EMNLP, COLING, COLM, 
 ## Work Experience
 - *2023.08 - Now*, Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ), Assistant Professor
 - *2017.08 - 2022.11*, Tencent Machine Learning Platform (Now HunYuan Team), Applied Research Scientist
+
+## Educations 📖
+- *2013.01 - 2017.05*, Ph.D., National University of Singapore, Singapore.
+- *2008.08 - 2012.07*, B.Eng., Harbin Institute of Technology, Harbin.
