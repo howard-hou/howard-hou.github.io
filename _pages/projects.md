@@ -1,4 +1,4 @@
-# Projects 🏭
+# Selected Projects 🏭
 *2022* **E-Commerce Visual Language Pre-training**
 - Developed a large-scale (100M pairs) e-commerce visual-language pre-training model for enhanced product understanding.
 - Proposed **BagFormer**, a dual encoder for cross-modal retrieval using bag-wise interaction and entity-aware text granularity. Achieved top recall with low latency.
