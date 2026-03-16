@@ -11,6 +11,17 @@ Xinxin Zhu, Haowen Hou, Ruichong Zhang, Nianbo Zeng, Yulin Peng, Jiongfeng Fang,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion</div><img src='images/VisualRWKV-HM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VisualRWKV-HM: Enhancing linear visual-language models via hybrid mixing](https://www.sciencedirect.com/science/article/pii/S1566253525004099) \\
+Haowen Hou, Fei Ma, Zihang Li, Fei Richard Yu
+
+[**Code**](https://github.com/howard-hou/VisualRWKV) \| [**Paper**](https://www.sciencedirect.com/science/article/pii/S1566253525004099)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/VisualRWKV-arch.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
