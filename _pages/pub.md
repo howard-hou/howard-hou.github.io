@@ -1,4 +1,15 @@
 # Selected Publications 📝
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/PSPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PSPO: Prompt-Level Prioritization and Experience-Weighted Smoothing for
+Efficient Policy Optimization](https://openreview.net/forum?id=k7Ipg88jzw) \\
+Xinxin Zhu, Haowen Hou, Ruichong Zhang, Nianbo Zeng, Yulin Peng, Jiongfeng Fang, Fei Yu, Ying Tiffany He 
+
+[**Code**](https://github.com/sunCityDaa/PSPO) \| [**Paper**](https://openreview.net/forum?id=k7Ipg88jzw)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/VisualRWKV-arch.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
