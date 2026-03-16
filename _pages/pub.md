@@ -72,7 +72,6 @@ Bo Peng, Eric Alcaide, Quentin Anthony, ..., Haowen Hou, et al.
 </div>
 
 # Other Publications 📚 
-- ``arXiv`` [RWKV-TS: Beyond Traditional Recurrent Neural Network for Time Series Tasks](https://arxiv.org/abs/2401.09093) ***Haowen Hou***, Fei Ma, Binwen Bai, Xinxin Zhu, Fei Yu
-- ``arXiv`` [Enhancing and Accelerating Large Language Models via Instruction-Aware Contextual Compression](https://arxiv.org/abs/2408.15491) ***Haowen Hou***, F. Richard Yu
-- ``ISCSLP 2021`` [Sams-Net: A Sliced Attention-based Neural Network for Music Source Separation](https://arxiv.org/abs/1909.05746), Tingle Li, Jiawei Chen, Haowen Hou, Ming Li
-- ``AAAI 2021 Workshop`` [Multimodal Product Identification: Submission to Watch and Buy 2021 Challenge](https://dl.acm.org/doi/10.1145/3475956.3484486), Jun Peng, Su Feng, Ya Wang, Haowen Hou, et al.
+- ``arXiv`` [EmbeddingRWKV: State-Centric Retrieval with Reusable States](https://arxiv.org/abs/2601.07861)
+- ``arXiv`` [RWKV-X: A Linear Complexity Hybrid Language Model](https://arxiv.org/abs/2504.21463)
+- ``arXiv`` [RWKV-TS: Beyond Traditional Recurrent Neural Network for Time Series Tasks](https://arxiv.org/abs/2401.09093)
