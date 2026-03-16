@@ -13,9 +13,9 @@ redirect_from:
 
 {% include_relative news.md %}
 
-{% include_relative pub.md %}
-
 {% include_relative projects.md %}
+
+{% include_relative pub.md %}
 
 {% include_relative honers.md %}
 
